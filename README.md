@@ -1,6 +1,11 @@
 erlang-pbkdf2
 =============
 
+Forked from basho/erlang-pbkdf2
+
+Erlang 23+ support
+
+
 A [PBKDF2][] implementation for [Erlang][] extracted from [Apache CouchDB][].
 
 [PBKDF2]: http://en.wikipedia.org/wiki/PBKDF2
